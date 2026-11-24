@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="560" viewBox="0 0 420 560">
+<defs><linearGradient id="tube" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d6e8dc"/></linearGradient><linearGradient id="cap" x1="0" x2="1"><stop stop-color="#183c34"/><stop offset="1" stop-color="#315c4e"/></linearGradient></defs>
+<ellipse cx="210" cy="520" rx="115" ry="13" fill="#789083" opacity=".2"/>
+<path d="M112 73 Q112 48 138 48 H282 Q308 48 308 73 L292 435 Q290 458 267 458 H153 Q130 458 128 435Z" fill="url(#tube)" stroke="#b4cfc0" stroke-width="3"/>
+<path d="M112 73 Q210 86 308 73" fill="none" stroke="#b4cfc0" stroke-width="3"/>
+<rect x="153" y="457" width="114" height="50" rx="8" fill="url(#cap)"/>
+<path d="M174 474h72v5h-72zm0 12h72v5h-72z" fill="#8ab49d"/>
+<text x="210" y="145" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" letter-spacing="4" fill="#244c3e">YES TEETH</text>
+<path d="M160 170h100" stroke="#80a993" stroke-width="2"/>
+<text x="210" y="231" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#234b3d">FRESH</text>
+<text x="210" y="270" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#234b3d">MINT</text>
+<text x="210" y="302" text-anchor="middle" font-family="Arial" font-size="12" letter-spacing="2" fill="#547566">DAILY TOOTHPASTE</text>
+<circle cx="183" cy="355" r="27" fill="#a9d0b7"/><circle cx="232" cy="367" r="25" fill="#77ad8e"/><path d="M182 328q-2-20 18-24q-1 22-18 24m34 38q8-23 27-17q-8 19-27 17" fill="#4e906e"/>
+<text x="210" y="418" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#315b4b">100 g</text>
+</svg>
